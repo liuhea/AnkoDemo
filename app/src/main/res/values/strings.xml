@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnkoDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_hint">输入标题</string>
+    <string name="content_hint">输入内容</string>
+    <string name="add_todo">创建</string>
+</resources>
